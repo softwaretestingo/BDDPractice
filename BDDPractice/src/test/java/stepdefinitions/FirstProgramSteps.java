@@ -15,7 +15,7 @@ public class FirstProgramSteps
 	public void user_enter_the_email_password_and_click_the_login_the_button() {
 	    // Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
-	    //new statement
+	    //new statement added
 	}
 	@Then("My account page will be displayed")
 	public void my_account_page_will_be_displayed() {
