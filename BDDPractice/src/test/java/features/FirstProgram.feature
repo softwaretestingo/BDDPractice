@@ -1,8 +1,7 @@
-Feature: Application Login Feature
-
-Scenario: Login as Notmal User
+Feature: Application Login
+Scenario: Login as Normal User
 
 Given User is on the login page
-When user enter the email, password and click the login the button
+When User login into the application
 Then My account page will be displayed
-And Logout link will displayed
+And My Account Header will be displayed	
