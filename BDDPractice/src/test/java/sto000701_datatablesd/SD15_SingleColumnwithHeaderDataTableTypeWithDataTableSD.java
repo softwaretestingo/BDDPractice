@@ -4,7 +4,7 @@ import io.cucumber.java.DataTableType;
 import io.cucumber.java.Transpose;
 import io.cucumber.java.en.Given;
 import sto03_Objects.CredentialsSingleColumnWithHeaderDataTypeTable;
-public class SingleColumnwithHeaderDataTableTypeWithDataTableSD 
+public class SD15_SingleColumnwithHeaderDataTableTypeWithDataTableSD 
 {
 	@DataTableType
 	//When we use DataTable we Need to Implement Own Own Logic

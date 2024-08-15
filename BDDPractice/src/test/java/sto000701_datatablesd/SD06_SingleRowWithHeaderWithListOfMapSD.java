@@ -2,7 +2,7 @@ package sto000701_datatablesd;
 import java.util.List;
 import java.util.Map;
 import io.cucumber.java.en.Given;
-public class SingleRowWithHeaderWithListOfMapSD 
+public class SD06_SingleRowWithHeaderWithListOfMapSD 
 {
 	@Given("my Blog credentials For Single Row with Header With ListOfMap")
 	public void my_blog_credentials_for_single_row_with_header_with_list_of_map(List<Map<String, String>> dataTable) 

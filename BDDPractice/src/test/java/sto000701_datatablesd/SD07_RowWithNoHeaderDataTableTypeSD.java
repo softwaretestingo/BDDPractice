@@ -3,7 +3,7 @@ import java.util.List;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.Given;
 import sto03_Objects.SoftwareTestingCredentials;
-public class RowWithNoHeaderDataTableTypeSD 
+public class SD07_RowWithNoHeaderDataTableTypeSD 
 {
 	// DataTable Transformer
 	@DataTableType

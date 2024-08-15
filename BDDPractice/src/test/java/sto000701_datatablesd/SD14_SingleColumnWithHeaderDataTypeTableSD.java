@@ -5,7 +5,7 @@ import io.cucumber.java.DataTableType;
 import io.cucumber.java.Transpose;
 import io.cucumber.java.en.Given;
 import sto03_Objects.CredentialsSingleColumnWithHeaderDataTypeTable;
-public class SingleColumnWithHeaderDataTypeTableSD 
+public class SD14_SingleColumnWithHeaderDataTypeTableSD 
 {
 	@DataTableType
 	public CredentialsSingleColumnWithHeaderDataTypeTable credentials(Map<String, String> entry)

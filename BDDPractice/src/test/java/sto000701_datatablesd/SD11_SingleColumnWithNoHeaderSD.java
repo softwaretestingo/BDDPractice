@@ -3,7 +3,7 @@ import java.util.List;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
-public class SingleColumnWithNoHeaderSD 
+public class SD11_SingleColumnWithNoHeaderSD 
 {
 	@Given("Single Column with No Header Data Table Type")
 	public void single_column_with_no_header_data_table_type(DataTable dataTable) 

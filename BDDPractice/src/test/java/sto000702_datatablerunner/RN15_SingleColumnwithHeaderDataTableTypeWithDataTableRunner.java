@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 	features="src/test/java/sto03_cucumberDataTablesFT/14_SingleColumnwithHeaderDataTableType.feature",
 	glue="sto03_cucumberDataTablesSD"
 )
-public class SingleColumnwithHeaderDataTableTypeWithDataTableRunner extends AbstractTestNGCucumberTests
+public class RN15_SingleColumnwithHeaderDataTableTypeWithDataTableRunner extends AbstractTestNGCucumberTests
 {
 	
 }

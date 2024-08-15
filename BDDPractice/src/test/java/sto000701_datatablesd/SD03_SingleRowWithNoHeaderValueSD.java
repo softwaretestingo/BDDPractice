@@ -2,7 +2,7 @@ package sto000701_datatablesd;
 import java.util.List;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
-public class SingleRowWithNoHeaderValueSD 
+public class SD03_SingleRowWithNoHeaderValueSD 
 {
 	@Given("my Blog credential")
 	public void my_credential(DataTable dataTable) 

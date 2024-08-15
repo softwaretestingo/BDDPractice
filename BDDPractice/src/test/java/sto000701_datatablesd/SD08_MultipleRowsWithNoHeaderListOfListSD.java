@@ -1,7 +1,7 @@
 package sto000701_datatablesd;
 import java.util.List;
 import io.cucumber.java.en.Given;
-public class MultipleRowsWithNoHeaderListOfListSD 
+public class SD08_MultipleRowsWithNoHeaderListOfListSD 
 {
 	@Given("my Blog credentials For Multiple Rows with No Header")
 	public void my_blog_credentials_for_multiple_rows_with_no_header(List<List<String>> cred) 

@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 	glue="sto03_cucumberDataTablesSD",  // Only Package Name Mention
 	plugin="pretty"
 )
-public class FirstDataTableRunner extends AbstractTestNGCucumberTests
+public class RN01_FirstDataTableRunner extends AbstractTestNGCucumberTests
 {
 	
 }

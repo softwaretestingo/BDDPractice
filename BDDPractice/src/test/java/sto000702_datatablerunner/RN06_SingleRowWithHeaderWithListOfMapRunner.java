@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 	features="src/test/java/sto03_cucumberDataTablesFT/06_SingleRowWithHeaderWithListOfMap.feature",
 	glue="sto03_cucumberDataTablesSD"
 )
-public class SingleRowWithHeaderWithListOfMapRunner extends AbstractTestNGCucumberTests
+public class RN06_SingleRowWithHeaderWithListOfMapRunner extends AbstractTestNGCucumberTests
 {
 
 }

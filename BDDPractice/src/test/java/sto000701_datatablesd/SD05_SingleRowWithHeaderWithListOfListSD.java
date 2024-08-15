@@ -1,7 +1,7 @@
 package sto000701_datatablesd;
 import java.util.List;
 import io.cucumber.java.en.Given;
-public class SingleRowWithHeaderWithListOfListSD 
+public class SD05_SingleRowWithHeaderWithListOfListSD 
 {
 	@Given("my Blog credentials For Single Row with Header With ListOfList")
 	public void my_blog_credentials_for_single_row_with_header_with_list_of_list(List<List<String>> dataTable) 
