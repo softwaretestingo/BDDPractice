@@ -6,6 +6,6 @@ public class SD01_FirstDataTableSD
 	@Given("my credentials")
 	public void my_credentials(DataTable dataTable) 
 	{
-	   System.out.println("Data Table");
+	   System.out.println(dataTable);
 	}
 }

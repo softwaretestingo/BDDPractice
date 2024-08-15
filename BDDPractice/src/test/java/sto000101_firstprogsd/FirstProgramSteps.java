@@ -1,9 +1,7 @@
 package sto000101_firstprogsd;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
 public class FirstProgramSteps 
 {
 	@Given("User is on the login page")

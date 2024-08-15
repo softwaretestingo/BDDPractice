@@ -3,7 +3,6 @@ import io.cucumber.java.After;
 import io.cucumber.java.Before;
 public class Hooks 
 {
-	
 	@Before("@admin")
 	public void setupAdminDataBase() 
 	{
@@ -22,5 +21,4 @@ public class Hooks
 	{
 		System.out.println("Clear The Database Entries");
 	}
-
 }

@@ -3,9 +3,9 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 @CucumberOptions
 (
-	features="src/test/java/sto03_cucumberDataTablesFT/01_FirstDatabaleEx.feature",
-	glue="sto03_cucumberDataTablesSD",  // Only Package Name Mention
-	plugin="pretty"
+	features="src/test/java/sto0007_datatableft/FT01_FirstDatabaleEx.feature",
+	glue="sto000701_datatablesd",  // Only Package Name Mention
+	plugin="usage"
 )
 public class RN01_FirstDataTableRunner extends AbstractTestNGCucumberTests
 {

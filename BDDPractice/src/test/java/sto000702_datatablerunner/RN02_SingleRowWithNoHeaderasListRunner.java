@@ -3,8 +3,8 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 @CucumberOptions
 (
-	features="src/test/java/sto03_cucumberDataTablesFT/02_SingleRowWithNoHeaderWithAsList.feature",
-	glue="sto03_cucumberDataTablesSD"
+	features="src/test/java/sto0007_datatableft/FT02_SingleRowWithNoHeaderWithAsList.feature",
+	glue="sto000701_datatablesd"
 )
 public class RN02_SingleRowWithNoHeaderasListRunner extends AbstractTestNGCucumberTests
 {
