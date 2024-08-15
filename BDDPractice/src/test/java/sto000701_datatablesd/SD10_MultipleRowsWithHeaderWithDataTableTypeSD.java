@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Map;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.Given;
-import sto03_Objects.SoftwareTestingCredentialsForMultipleRowsWithDataTableType;
+import sto000703_Objects.SoftwareTestingCredentialsForMultipleRowsWithDataTableType;
 public class SD10_MultipleRowsWithHeaderWithDataTableTypeSD 
 {
 	// DataTable Transformer

@@ -2,7 +2,7 @@ package sto000701_datatablesd;
 import java.util.List;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.Given;
-import sto03_Objects.SoftwareTestingCredentials;
+import sto000703_Objects.SoftwareTestingCredentials;
 public class SD07_RowWithNoHeaderDataTableTypeSD 
 {
 	// DataTable Transformer

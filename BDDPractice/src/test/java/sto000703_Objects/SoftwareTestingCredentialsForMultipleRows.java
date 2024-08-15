@@ -1,9 +1,9 @@
-package sto03_Objects;
-public class SoftwareTestingCredentials 
+package sto000703_Objects;
+public class SoftwareTestingCredentialsForMultipleRows 
 {
 	private String userName;
 	private String password;
-	public SoftwareTestingCredentials(String userName, String password) 
+	public SoftwareTestingCredentialsForMultipleRows(String userName, String password) 
 	{
 		this.userName=userName;
 		this.password=password;

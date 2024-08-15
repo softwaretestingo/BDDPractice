@@ -1,9 +1,9 @@
-package sto03_Objects;
-public class CredentialsForSingleColumnWithNoHeaderDataTypeTable 
+package sto000703_Objects;
+public class SoftwareTestingCredentials 
 {
 	private String userName;
 	private String password;
-	public CredentialsForSingleColumnWithNoHeaderDataTypeTable(String userName, String password) 
+	public SoftwareTestingCredentials(String userName, String password) 
 	{
 		this.userName=userName;
 		this.password=password;

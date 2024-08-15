@@ -1,4 +1,4 @@
-package sto03_Objects;
+package sto000703_Objects;
 public class CredentialsSingleColumnWithHeaderDataTypeTable 
 {
 	private String userName;

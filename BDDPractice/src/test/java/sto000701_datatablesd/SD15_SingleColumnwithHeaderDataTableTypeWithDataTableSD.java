@@ -3,7 +3,7 @@ import io.cucumber.datatable.DataTable;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.Transpose;
 import io.cucumber.java.en.Given;
-import sto03_Objects.CredentialsSingleColumnWithHeaderDataTypeTable;
+import sto000703_Objects.CredentialsSingleColumnWithHeaderDataTypeTable;
 public class SD15_SingleColumnwithHeaderDataTableTypeWithDataTableSD 
 {
 	@DataTableType
