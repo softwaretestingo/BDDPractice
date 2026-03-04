@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions
 (
-	features="src/test/java/sto0006_cucumberExpressionft/FT03_ParameterTypesEx.feature",
+	features="src/test/java/sto0006_cucumberExpressionft/FT02_CucumberExpressionEx.feature",
 	glue="sto000601_cucumberExpressionsd",  // Only Package Name Mention
 	plugin="pretty"
 )

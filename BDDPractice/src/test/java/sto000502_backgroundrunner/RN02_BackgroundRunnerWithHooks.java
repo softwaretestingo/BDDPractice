@@ -4,9 +4,10 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
 		features="src/test/java/sto0005_backgroundft",
-		glue="sto000501_backgroundsd",
+		glue={"sto000501_backgroundsd","sto0004_hooksft"},
+		tags = "@sanity",
 		monochrome=true
 		)
-public class BackgroundRunner extends AbstractTestNGCucumberTests{
+public class RN02_BackgroundRunnerWithHooks extends AbstractTestNGCucumberTests{
 
 }

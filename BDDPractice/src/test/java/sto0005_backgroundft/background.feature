@@ -1,9 +1,15 @@
 Feature: Application Login With Different User
+#Background steps are executed:
+#Before each scenario
+#In the same order they are written
+#Background runs after Before hooks and before scenario steps
+#Background applies only to the feature file where it is defined
 Background:
 Given Setup the Entries in Database
 And Launch The Browser Based on config variables
 And Hit the Home Page URL of banking site
 
+@smoke
 Scenario: Login as Admin User
 
 #Given Setup the Entries in Database
@@ -14,6 +20,7 @@ When Admin User login into the application with Admin Credential username "admin
 Then Admin My account page will be displayed
 And Admin My Account Header will be displayed	
 
+@smoke @sanity
 Scenario: Login as Normal User
 
 #Given Setup the Entries in Database
